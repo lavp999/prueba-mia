@@ -2,3 +2,5 @@ archivo1.txt
 archivo2.txt
 
 rama b
+
+para subir con push, pero lo he pasado a ramaC ara subir desde ahi y luego esta
