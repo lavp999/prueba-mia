@@ -1,4 +1,0 @@
-archivo1.txt
-archivo2.txt
-añadido
-para segundo commit
